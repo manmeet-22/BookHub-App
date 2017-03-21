@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Book Hub</string>
+    <string name="title_heading">Title</string>
+    <string name="authors_heading">Author(s)</string>
+    <string name="publish_date_heading">DOP</string>
+    <string name="snackbar_text">Click the Books to know more</string>
+    <string name="snackbar_text_result">No Results Found,Please Retry</string>
+    <string name="snackbar_action">Dismiss</string>
+    <string name="snackbar_action_setting">Settings</string>
+    <string name="snackbar_text_noInternet">No or Low Internet Connection</string>
+    <string name="snackbar_text_noResult">No Results Found</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="home_menu_item">Home</string>
+    <string name="input_error">Please Enter Book or Author Name</string>
+    <string name="book_hub">Book Hub</string>
+</resources>

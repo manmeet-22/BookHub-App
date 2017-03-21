@@ -1,0 +1,7 @@
+Hello Sir,
+1) For the part that Long title is not fitting is wrong. Both in my emulator and mobile the cardview streches accordingly thus I have not done any changes in the code but still if the problem persists I will definately take action.I have added the screen shot in the zip.
+2) For the Textview part for Empty state I have added the edittext with hint which gives the user idea what to do but for the specification I have added a textVew on the main screen.
+3) For the spaces and dead code adjustments I have removed as much spaces that I could and I have just kept the dead code ed Async Task so that I can refer to it whenever I want.
+4) For the splash screen I have reduced time from 4 to 3 , but FYI- onClickListener was already added on the splash screen so that the main activity opened according to the user.
+5) For the snackbar part I have just made a coordinator view so that snack bar can refer to it.I just gave the id as "snackbar".
+6) I will definately try viewholder and recycler view in my next app. 
